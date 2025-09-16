@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+.bg-gray-900 { background-color: #111827; }
+.bg-gray-800 { background-color: #1f2937; }
+.bg-gray-700 { background-color: #374151; }
+.text-white { color: #ffffff; }
+.text-gray-200 { color: #e5e7eb; }
+.text-gray-300 { color: #d1d5db; }
+.text-gray-400 { color: #9ca3af; }
+.text-green-400 { color: #34d399; }
+.text-red-400 { color: #f87171; }
+.text-blue-400 { color: #60a5fa; }
+.text-blue-300 { color: #93c5fd; }
+
+.bg-blue-600 { background-color: #2563eb; }
+.bg-yellow-600 { background-color: #d97706; }
+.bg-blue-500 { background-color: #3b82f6; }
+.bg-purple-600 { background-color: #9333ea; }
+
+.bg-green-900 { background-color: #14532d; }
+.text-green-300 { color: #86efac; }
+.bg-yellow-900 { background-color: #713f12; }
+.text-yellow-300 { color: #fde047; }
+.bg-red-900 { background-color: #7f1d1d; }
+.text-red-300 { color: #fca5a5; }
+
+.border-gray-600 { border-color: #4b5563; }
