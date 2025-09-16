@@ -12,4 +12,4 @@
 # Tests
 - playwright e2e tests
 
-## Have a nice day :-D
+## Have a nice day 😊
